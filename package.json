@@ -79,10 +79,10 @@
         "string-replace-webpack-plugin": "0.1.3",
         "strip-sourcemap-loader": "0.0.1",
         "sumchecker": "^3.0.0",
-        "terser-webpack-plugin": "^2.2.1",
+        "terser-webpack-plugin": "^5.3.11",
         "time-grunt": "2.0.0",
         "url-loader": "^2.2.0",
-        "webpack": "^4.41.2",
+        "webpack": "^5.97.1",
         "webpack-bundle-analyzer": "^3.6.0",
         "webpack-dev-server": "^3.9.0"
     },
